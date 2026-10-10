@@ -240,4 +240,4 @@ This repository serves as the official landing page for Desktop Goose. The softw
 **Get the most recent version of Desktop Goose today!**
 
 ---
-**Last updated:** 2026-10-09 22:12:55 UTC
+**Last updated:** 2026-10-10 02:02:56 UTC
